@@ -1,5 +1,5 @@
 # snake
-## TkInter Snake game
+## TkInter snake game
 
 ### To play:
 Use Up, Down, Left, Right arrows to move the snake
